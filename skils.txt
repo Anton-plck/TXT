@@ -3,7 +3,7 @@
 3. Charles/Fiddler
 4. DevTools
 5. XCode
-6. AndroidStudio[D[D[D[D[D[D Studio
+6. AndroidStudio
 7. ADB
 8. Proxy/Vpn
 9. SQL
